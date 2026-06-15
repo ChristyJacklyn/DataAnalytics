@@ -1,7 +1,6 @@
 # DataAnalytics
 Portfolio
 
-
 Data Preparation
 Data Processing and Analytics with PostgreSQL
 Project Overview
